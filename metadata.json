@@ -1,0 +1,6 @@
+{
+  "name": "Shree Vijay Showroom",
+  "description": "Jabalpur's premier destination for luxury ethnic wear — sarees, lehengas, sherwanis, and wedding collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
